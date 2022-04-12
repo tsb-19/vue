@@ -1,4 +1,4 @@
-# echarts
+# Vue
 
 > A Vue.js project
 
